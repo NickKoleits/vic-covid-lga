@@ -16,15 +16,14 @@ This project involves web-scarping of daily COVID-19 cases for Victorian LGAs to
 1. COVID-19 data was sourced from https://covidlive.com.au/
 2. Shapefile to create map base layer was sourced from the Australian Bureau of Statistics (ABS): https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202016?OpenDocument
 
-A big thank you to Benjamin Cooley for creating a detailed blog post about making interactive maps using Pandas and Matplotlib. Click [here](https://towardsdatascience.com/lets-make-a-map-using-geopandas-pandas-and-matplotlib-to-make-a-chloropleth-map-dddc31c1983d) to see the original post. 
+A big thank you to Benjamin Cooley for creating a detailed blog post about making interactive maps using Pandas and Matplotlib. Click [here](https://towardsdatascience.com/lets-make-a-map-using-geopandas-pandas-and-matplotlib-to-make-a-chloropleth-map-dddc31c1983d) to see the original post.
 
 
 ## What does this repo contain?
 
-1. [Web-scraping and visualisation notebook](https://github.com/poojaisabelle/Project-One/blob/master/data_exploration_cleanup_MASTER.ipynb)
-2. [Output GIFs](https://github.com/poojaisabelle/Project-One/blob/master/final_analysis_MASTER.ipynb)
-3. [Individual static plots]()  
-4. [Input files]()
+1. [Web-scraping and visualisation notebook](https://github.com/NickKoleits/vic-covid-lga/blob/master/notebooks/Melbourne_COVID_cases.ipynb)
+2. [Active cases GIF](https://github.com/NickKoleits/vic-covid-lga/blob/master/gif/active_cases.gif)
+3. [Cumulative cases GIF](https://github.com/NickKoleits/vic-covid-lga/blob/master/gif/cumulative_cases.gif)
 
 ## Contact
 Feel free to reach out if you have any queries
